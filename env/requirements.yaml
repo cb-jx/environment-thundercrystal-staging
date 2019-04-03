@@ -10,6 +10,9 @@ dependencies:
 - name: jx-spring-demo
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: my-app
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 1.0.0
 - name: s-demo
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.3
